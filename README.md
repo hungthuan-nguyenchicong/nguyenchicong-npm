@@ -26,6 +26,9 @@ Press ENTER to open in the browser...
 ## publish package npm
 npm publish
 
+# git hay sai
+git add. >> git commit -m 'init'
+
 # git
 
 Không dài dòng, chỉ cần nhớ những câu lệnh này là làm việc với Git được rồi. Tất nhiên sẽ có những câu lệnh tương tự nhưng không cần thiết phải nhớ những câu lệnh đó. Vì nhớ thêm chỉ làm bạn đâu đầu thôi.
