@@ -1,4 +1,6 @@
 # package nguyenchicong-npm
+https://docs.npmjs.com/changing-package-visibility
+
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 coppy https://duthanhduoc.com/blog/tao-va-publish-package-len-npm
