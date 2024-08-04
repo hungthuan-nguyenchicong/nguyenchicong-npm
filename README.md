@@ -5,6 +5,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 coppy https://duthanhduoc.com/blog/tao-va-publish-package-len-npm
 new folder nguyenchicong-npm/
+## update
+npm version patch
+
+npm publish
 ## package.json
 npm init -y
 ## index.js
